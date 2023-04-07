@@ -1,6 +1,3 @@
 ---
-title: Welcome to my blog
+title: GitHub Pages
 ---
-# Hello,I'm Malavika Sreehari
-
-Welcome to my blog!
